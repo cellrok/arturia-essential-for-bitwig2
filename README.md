@@ -2,6 +2,8 @@
 
 Arturia Essential 61 
 
+![interface](https://i.imgur.com/toiXMwx.png)
+
 #### Features
 - Knobs 1-8 mapped to current Device Macros
 - Next/Prev Button to navigate Device Macro pages
