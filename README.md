@@ -13,6 +13,7 @@ Arturia Essential 61
 - Holding "Metro" + Turn Preset Dial = Change Temp
 - Holding "Live/Bank" + Faders = Change Track Vol (1-8)
 - Holding "Live/Bank" + Knobs = Change Track Pan (1-8)
+- Fader 9 and Knob 9 is set as Master Vol and Pan
 
 #### Issues/Todo
 - Currently only working with MacOS
