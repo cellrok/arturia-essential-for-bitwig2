@@ -16,7 +16,7 @@ Arturia Essential 61
 - Fader 9 and Knob 9 is set as Master Vol and Pan
 
 #### Issues/Todo
-- Currently only working with MacOS
+- Currently auto-detect only working with MacOS
 - Button lights not working (no LED feedback)
 - Preset Column navigation not working (category button)
 - No "pickup" mode for knobs and faders
