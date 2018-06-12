@@ -21,6 +21,7 @@ Arturia Essential 61
 - No "pickup" mode for knobs and faders
 - Discovery names for Windows and Linux
 - The "Save" button has no function
+- Hardly any useful display feedback. 
 
 #### Ideas
 
