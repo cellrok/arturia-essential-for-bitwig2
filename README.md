@@ -18,3 +18,11 @@ Arturia Essential 61
 - Preset Column navigation not working (category button)
 - No "pickup" mode for knobs and faders
 - Discovery names for Windows and Linux
+- The "Save" button has no function
+
+#### Ideas
+
+- "Live/Bank" enables "mixer mode", "next/prev" should then page tracks
+- "<-" and "->" in preset section should page through Filter columns.
+- "Midi CH" button could be uses as "shift" button for the pads
+- Use pads for clips (4 tracks, 2 clips), preset dial for clip navigation
