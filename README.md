@@ -27,6 +27,7 @@ Arturia Essential 61
 #### Ideas
 
 - "Live/Bank" enables "mixer mode", "next/prev" should then page tracks
-- "<-" and "->" in preset section should page through Filter columns.
+- "<-" and "->" in preset section should page through Filter columns (when browsing).
+- "<-" and "->" should scroll through devices in the current channels chain.
 - "Midi CH" button could be uses as "shift" button for the pads
 - Use pads for clips (4 tracks, 2 clips), preset dial for clip navigation
