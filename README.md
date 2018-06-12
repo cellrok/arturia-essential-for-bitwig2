@@ -4,6 +4,7 @@ Arturia Essential 61
 
 #### Features
 - Knobs 1-8 mapped to current Device Macros
+- Next/Prev Button to navigate Device Macro pages
 - Faders 1-8 freely assignable
 - Preset Dial press opens browser
 - Scrolling up/down using the dial, commit selection with pressing again
